@@ -1,8 +1,0 @@
-{
-  "name": "super-repo",
-  "version": "1.0.0",
-  "description": "Super repo",
-  "dependencies": {
-    "3dp-manager": "github:denpiligrim/3dp-manager"
-  }
-}
